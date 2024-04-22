@@ -1,0 +1,1 @@
+42bed5145cf2561582e7f2005a8a6d9bc58ed2a885660d288dcfa43f15c11638  short_funding_bot_cw.wasm
